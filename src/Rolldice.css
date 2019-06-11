@@ -1,0 +1,9 @@
+.dice {
+  height: 100vh;
+}
+
+.dice-container { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
